@@ -2,11 +2,11 @@
 
 <!-- [![*'s github stats](https://github-readme-stats.vercel.app/api?username=hyomin-dev)](https://github.com/hyomin-dev) -->
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=hyomin-dev&show_icons=true&theme=radical)]
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=hyomin-dev&show_icons=true&theme=radical&count_private=true)]
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyomin-dev)](https://github.com/hyomin-dev/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyomin-dev&layout=compact&count_private=true)](https://github.com/hyomin-dev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyomin-dev&layout=compact)](https://github.com/hyomin-dev/github-readme-stats)
 
 
 
