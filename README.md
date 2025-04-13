@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hyomin&fontSize=90)
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=hyomin-dev&count_private=true)](https://github.com/hyomin-dev) 
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=hyomin-dev&count_private=true&theme=dracula)](https://github.com/hyomin-dev) 
 
 <!-- [![*'s github stats](https://github-readme-stats.vercel.app/api?username=hyomin-dev&show_icons=true&theme=radical&count_private=true)] -->
 
