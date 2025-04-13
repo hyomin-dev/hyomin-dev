@@ -6,7 +6,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyomin-dev)](https://github.com/hyomin-dev/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyomin-dev&layout=compact&theme=dracula)](tps://github.com/hyomin-dev) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyomin-dev&layout=compact&theme=dracula)](https://github.com/hyomin-dev) 
 
 
 
