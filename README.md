@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=blue&height=300&section=header&text=hyomin&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hyomin's%20Portfolio&fontSize=70&fontColor=white&animation=fadeIn)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=hyomin-dev&count_private=true&theme=dracula)](https://github.com/hyomin-dev) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiahiml)](https://solved.ac/백준아이디/)
