@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:99ccff,100:3366ff&height=280&section=header&text=Hyomin&fontSize=80&fontColor=ffffff&animation=fadeIn)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=hyomin-dev&count_private=true&theme=dracula)](https://github.com/hyomin-dev) 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiahiml)](https://solved.ac/profile/hiahiml)
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=hiahiml)](https://solved.ac/profile/hiahiml)
 <!-- [![*'s github stats](https://github-readme-stats.vercel.app/api?username=hyomin-dev&show_icons=true&theme=radical&count_private=true)] -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyomin-dev)](https://github.com/hyomin-dev/github-readme-stats) -->
